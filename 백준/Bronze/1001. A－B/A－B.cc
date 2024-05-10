@@ -4,7 +4,7 @@ int main()
 {
     int lhs;
     int rhs;
-    std::cin >> lhs >> rhs;
+    std::wcin >> lhs >> rhs;
 
-    std::cout << lhs - rhs;
+    std::wcout << lhs - rhs;
 }
